@@ -1,3 +1,3 @@
 # Dev-Andro
-Project for Android Development
-In development Node
+Project for Android Development demo -----
+In development Node -----
